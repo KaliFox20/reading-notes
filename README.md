@@ -1,7 +1,7 @@
 # My Learning Journal
 
 ## Growth Mindset
-A growth mindset it
+A growth mindset is....
 
 - Sleeping is important
 - Don't be afraid to ask for help
