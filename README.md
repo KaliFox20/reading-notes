@@ -6,3 +6,6 @@ A growth mindset is with enough time and effort you can accomplish anything you 
 - **Sleeping is important**
 - * *Don't be afraid to ask for help* *
 - **Taking _breaks_ will help you**
+
+### Check me out
+https://github.com/KaliFox20
